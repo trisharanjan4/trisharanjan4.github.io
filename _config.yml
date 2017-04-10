@@ -1,13 +1,13 @@
 # Site Settings
-title:               Lagrange
-tagline:             a minimalist Jekyll theme
+title:               Trisha Ranjan ka Blog
+tagline:             Please padh lo
 description:
 baseurl:            #"/Lagrange"
 url:                #"https://lenpaul.github.io"
 github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
-  name:              "Paul Le"
+  name:              "Trisha Ranjan"
   email:             "l.nguyen.paul@gmail.com"
   twitter:           "paululele"
   instagram:         "paululele"
