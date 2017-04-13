@@ -5,7 +5,7 @@ categories: blog
 tags: [sports, sports as career, India, Indian, parents, cricket, basketball]
 image:
   feature: The-Balls-in-your-court.jpg
-  teaser: mountains-teaser.jpg
+  teaser: The-Balls-in-your-court.jpg
   credit: Google Images
   creditlink: ""
 ---
