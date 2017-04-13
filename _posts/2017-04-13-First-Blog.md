@@ -10,7 +10,7 @@ image:
   creditlink: ""
 ---
 
-###Whose Court is the Ball In?
+### Whose Court is the Ball In?
 
 Hello! Hope you’re having a good day because after you reach the end of this post, I would ask you to help me in fulfilling what might be a dream to some.
 I was 10 when my brother left the city for higher studies leaving me no one to play with at home. I have always been one of those girls who enjoyed playing cricket and football in the sun than playing with dolls inside the house. I’m not quite sure whether my parents understood this or not, because they never allowed me to play cricket with the boys in my colony. When my girlfriends would come over to my house to play, we never chose the same game and gradually I saw myself playing cricket all by myself because that’s what I enjoyed the most. I would bowl and aim for the wicket at the other end, and that’s how I learned.
