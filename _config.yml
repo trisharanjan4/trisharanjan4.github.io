@@ -1,6 +1,6 @@
 # Site Settings
-title:               Trisha Ranjan ka Blog
-tagline:             Please padh lo
+title:               Through the Nets
+tagline:             #
 description:
 baseurl:            #"/Lagrange"
 url:                "http://trisharanjan.me"
@@ -8,12 +8,12 @@ github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
   name:              "Trisha Ranjan"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  email:             "trisha.ranjan@gmail.com"
+  twitter:           #
+  instagram:         "trishranjan"
+  github:            "trisharanjan4"
+  facebook:          "trisha.ranjan"
+  linkedin:          "trisha-ranjan-59ab61103"
 navigation:
 - title: About
   url: /about
@@ -22,7 +22,7 @@ navigation:
 - title: Contact
   url: /contact
 
-paginate:            5
+paginate:            3
 disqus:              #"your-disqus"
 
 # Build settings
