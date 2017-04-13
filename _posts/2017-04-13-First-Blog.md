@@ -10,6 +10,8 @@ image:
   creditlink: ""
 ---
 
+###Whose Court is the Ball In?
+
 Hello! Hope you’re having a good day because after you reach the end of this post, I would ask you to help me in fulfilling what might be a dream to some.
 I was 10 when my brother left the city for higher studies leaving me no one to play with at home. I have always been one of those girls who enjoyed playing cricket and football in the sun than playing with dolls inside the house. I’m not quite sure whether my parents understood this or not, because they never allowed me to play cricket with the boys in my colony. When my girlfriends would come over to my house to play, we never chose the same game and gradually I saw myself playing cricket all by myself because that’s what I enjoyed the most. I would bowl and aim for the wicket at the other end, and that’s how I learned.
 When I was 13, I got selected from my school to represent my district in women’s cricket. But, my school did not allow me to miss classes for that and hence I couldn’t attend the camp. I remember one guy from the cricket association consoled my father saying that there is no scope for women’s cricket in this country anyway. But I was still happy, because my Dad saw me play for the first time and like any Indian father, secretly appreciated my game to my mother.
@@ -21,6 +23,3 @@ In India, we need the sports culture. It is the fundamental pillar for our count
 Lionel Messi tried out for Barcelona at the age of 13 and got selected because the administration saw potential in him. The management plays a major role in nurturing the career of the deserved candidates. I can say this from my personal experience that the day the administration starts selecting the worthy contestants rather than fortifying their best interests, we will definitely bag more medals in all international platforms.
 It is time now, to change the stereotypical mindset, to accept the choice of sports as career as willingly as Science or Law, to make efforts to educate people about  Olympics in villages and other tournaments where it is lesser known and, to be the administration that gives great players to the world and not the one that people regret getting involved into. Let’s do our bit, let’s make India proud.
 
-
-
-### Getting Started with Trisha's Blog
