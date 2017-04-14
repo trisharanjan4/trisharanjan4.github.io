@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [email me](trisha.ranjan@gmail.com).
+If you are having any problems, any questions or suggestions, feel free to [email me](mailto:trisha.ranjan@gmail.com).
