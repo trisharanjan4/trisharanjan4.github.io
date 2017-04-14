@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Whose Court is the Ball In?"
+title: "The Price for Passion"
 categories: blog
 tags: [sports, sports as career, India, Indian, parents, cricket, basketball]
 image:
-  feature: The-Balls-in-your-court.jpg
-  teaser: The-Balls-in-your-court.jpg
+  feature: the-price-for-passion.jpg
+  teaser: the-price-for-passion.jpg
   credit: Google Images
   creditlink: ""
 ---
