@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Escape From Reality"
+title: "An Escape From Reality"
 categories: blog
 tags: [school, integration, differentiation, India, Indian, parents, cricket, hoverboard, villages, mango, bus, ride, escape, Isaac Newton]
 image:
