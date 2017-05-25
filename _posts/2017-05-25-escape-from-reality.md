@@ -21,4 +21,4 @@ I decide to bring my wife and grandchildren to this place spend quality time wit
 
 Suddenly, I hear my bus honking loudly. I look around and see the conductor waking me up, informing that my stop has arrived. Oh, what a wonderful dream it was! Planning to visit my village this vacation, I get down from the bus, back to the present. I guess we all have our own way to take a temporary refuge from reality. To break free from the daily life hussle, and relax in our own time and space. The place where we would find our ultimate solace in. Mine was my childhood. What’s yours?
  
-> _In memory of my beloved grandfather. The best teacher and amazing human being._
+> _In memory of an amazing human being and the best teacher, my beloved grandfather._
