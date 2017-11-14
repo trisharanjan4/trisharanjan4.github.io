@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Unconventional Friendship"
+title: "Unconventional Friendship"
 categories: blog
 tags: [school, dogs, pets, alsatian, harry potter, roadtrip, dobby, friendship, elf, trees, music, tournaments]
 image:
